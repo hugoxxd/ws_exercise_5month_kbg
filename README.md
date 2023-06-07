@@ -1,4 +1,4 @@
-# ws_exercise_5month_kbg
+# 布谷
 本项目为DataWhale学习社5月的作业，dw 大模型 知识库学习组。
 
 **目标**  
@@ -12,10 +12,10 @@
 **本期目标（完成DW5月学习社作业）**  
 替换Langchain默认的内存式向量库Faiss，采用CS服务式开源向量库Milvus，解决embedding数据的长期存储、大数据量存储问题。
 
-**技术路路径**
+**技术路路径**  
 采用Langchain为应用开发框架，整合向量数据库、LLM模型、代理等等。（后续细化本章节）
 
 
 
-
-
+**项目成员**
+hugo639xxd、Hungfool、ly1843797、ljc129828429、yao-yaoO_o、zhaohaofei0529、Derong_Liu
